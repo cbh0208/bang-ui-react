@@ -4,6 +4,8 @@ import {Button} from '../dist/index'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <div><Button/></div>
+    <div>
+      <Button>qw</Button>
+    </div>
   </React.StrictMode>,
 )
